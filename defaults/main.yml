@@ -16,6 +16,7 @@ karaf_maven_template: org.ops4j.pax.url.mvn.cfg
 
 karaf_systemd_template: karaf.service
 
+karaf_jms_brokerUrl: localhost
 # The following variables have a default value depending on operating system.
 # karaf_java_home: /usr/lib/jvm/java-8-openjdk-amd64
 # karaf_java_packages:
